@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/LuisOTSG/LuisOTSG/blob/main/banner-github.png" alt="Banner Luis Gomes">
+    <img src="https://github.com/LuisOTSG/LuisOTSG/blob/main/banner-github.jpg" alt="Banner Luis Gomes">
 </p>
 <h1 align="center">Opa, bão? 👋, eu sou o Luis Gomes</h1>
 <h3 align="center">Um entusiasta de dados</h3>
