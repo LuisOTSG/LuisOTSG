@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisotsg&label=Profile%20views&color=0e75b6&style=flat" alt="luisotsg" /> </p>
 
-- 🌱 Atualmente estou aprendendo sobre **PowerBI, Python e Metodologias Ágeis**
+- 🌱 Atualmente estou aprendendo sobre **PowerBI, Python e SQL**
 
 - 📫 Pode me contatar por aqui 👉 **luis12osg@gmail.com**
 
